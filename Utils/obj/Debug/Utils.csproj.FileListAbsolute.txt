@@ -3,3 +3,8 @@ J:\Development\C#\Utils\Utils\Utils\bin\Debug\Utils.pdb
 J:\Development\C#\Utils\Utils\Utils\obj\Debug\Utils.csprojResolveAssemblyReference.cache
 J:\Development\C#\Utils\Utils\Utils\obj\Debug\Utils.dll
 J:\Development\C#\Utils\Utils\Utils\obj\Debug\Utils.pdb
+J:\Development\Repositories\C#Utils\Utils\bin\Debug\Utils.dll
+J:\Development\Repositories\C#Utils\Utils\bin\Debug\Utils.pdb
+J:\Development\Repositories\C#Utils\Utils\obj\Debug\Utils.csprojResolveAssemblyReference.cache
+J:\Development\Repositories\C#Utils\Utils\obj\Debug\Utils.dll
+J:\Development\Repositories\C#Utils\Utils\obj\Debug\Utils.pdb
