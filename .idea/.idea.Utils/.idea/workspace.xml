@@ -94,6 +94,9 @@
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
   </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="ba8876da-6e45-4eca-8bba-4f0d656792b6" name="Default" comment="" />
@@ -101,12 +104,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1471447406660</updated>
-      <workItem from="1471447408534" duration="30000" />
+      <workItem from="1471447408534" duration="74000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="30000" />
+    <option name="totallyTimeSpent" value="74000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
