@@ -39,15 +39,19 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="String\Levenshtein.cs" />
+    <Compile Include="Tree\Binary\BinaryNode.cs" />
+    <Compile Include="Tree\Binary\BinaryTree.cs" />
     <Compile Include="Tree\Builder\TreeObjectWrapper.cs" />
     <Compile Include="Tree\Builder\TreePopulator.cs" />
     <Compile Include="Tree\IVisitable.cs" />
     <Compile Include="Tree\IVisitor.cs" />
+    <Compile Include="Tree\Mutable\MutableWrapper.cs" />
     <Compile Include="Tree\VisitableTree.cs" />
     <Compile Include="Tree\Visitor\PrintIndentedVisitor.cs" />
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="Tree" />
+    <Folder Include="String" />
     <Folder Include="Tree\Builder" />
     <Folder Include="Tree\Visitor" />
   </ItemGroup>
