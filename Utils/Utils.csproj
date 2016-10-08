@@ -39,7 +39,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="String\Levenshtein.cs" />
+    <Compile Include="Difference\Levenshtein.cs" />
     <Compile Include="Tree\Binary\BinaryNode.cs" />
     <Compile Include="Tree\Binary\BinaryTree.cs" />
     <Compile Include="Tree\Builder\TreeObjectWrapper.cs" />
@@ -51,7 +51,7 @@
     <Compile Include="Tree\Visitor\PrintIndentedVisitor.cs" />
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="String" />
+    <Folder Include="Difference" />
     <Folder Include="Tree\Builder" />
     <Folder Include="Tree\Visitor" />
   </ItemGroup>

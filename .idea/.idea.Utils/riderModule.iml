@@ -6,7 +6,6 @@
       <excludeFolder url="file://$MODULE_DIR$/../../Utils/bin" />
       <excludeFolder url="file://$MODULE_DIR$/../../Utils/obj" />
     </content>
-    <content url="file://$MODULE_DIR$/../../../UtilsTesting/UtilsTesting" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
 </module>

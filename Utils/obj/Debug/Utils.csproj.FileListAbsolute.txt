@@ -13,3 +13,6 @@ G:\C# Stuff\C-SharpUtils\Utils\bin\Debug\Utils.pdb
 G:\C# Stuff\C-SharpUtils\Utils\obj\Debug\Utils.csprojResolveAssemblyReference.cache
 G:\C# Stuff\C-SharpUtils\Utils\obj\Debug\Utils.dll
 G:\C# Stuff\C-SharpUtils\Utils\obj\Debug\Utils.pdb
+J:\Development\C#\C#Utils\Utils\obj\Debug\Utils.csprojResolveAssemblyReference.cache
+J:\Development\C#\C#Utils\Utils\obj\Debug\Utils.dll
+J:\Development\C#\C#Utils\Utils\obj\Debug\Utils.pdb

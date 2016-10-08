@@ -1,8 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Management.Instrumentation;
 
-namespace Utils.String {
+namespace Utils.Difference {
     public class StringDifferences {
 
         public static int Levenshtein(string a, string b) {
