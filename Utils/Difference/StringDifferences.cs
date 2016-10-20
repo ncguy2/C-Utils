@@ -9,7 +9,7 @@ namespace Utils.Difference {
             int m = a.Length;
             int n = b.Length;
 
-            int[,] d = new int[m,n];
+            int[,] d = new int[m+1,n+1];
             for (int i = 0; i <= m; i++)
                 d[i,0] = i;
             for (int j = 0; j <= n; j++)
@@ -37,7 +37,7 @@ namespace Utils.Difference {
             var m = a.Length;
             var n = b.Length;
 
-            int[,] d = new int[m, n];
+            int[,] d = new int[m+1, n+1];
             for (int i = 0; i <= m; i++)
                 d[i,0] = i;
             for (int j = 0; j <= n; j++)
@@ -67,7 +67,7 @@ namespace Utils.Difference {
             int n = b.Length;
             Dictionary<char, int> charDictionary = new Dictionary<char, int>();
 
-            int[,] d = new int[m, n];
+            int[,] d = new int[m+1, n+1];
             for (int i = 0; i <= m; i++)
                 d[i,0] = i;
             for (int j = 0; j <= n; j++)
